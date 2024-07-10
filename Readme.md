@@ -136,6 +136,12 @@ Below not updated
 
 ### Crypto currency focus
 
+- [Freqtrade](https://github.com/freqtrade/freqtrade) | `Python` | - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
+- [* Hummingbot](https://github.com/hummingbot/hummingbot) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hummingbot/hummingbot/development) | `Python`, `Cython`, `Live Trading` | - A client for crypto market making
+- [Jesse](https://github.com/jesse-ai/jesse) | `Python` | - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
+
+less updated below 
+
 - [basana](https://github.com/gbeced/basana) | `Python` | - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
 - [c-binance-future-quant](https://github.com/Melelery/c-binance-future-quant/tree/main) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Melelery/c-binance-future-quant/main) | `Python` | - 低成本，高效率，简单实现的币安合约量化系统架构
 - [triangular-arbitrage2](https://github.com/zlq4863947/triangular-arbitrage2) | `TypeScript` | - a server side application for perform triangular arbitrage.
@@ -143,9 +149,6 @@ Below not updated
 - [crypto-crawler-rs](https://github.com/crypto-crawler/crypto-crawler-rs) | `Rust` | - Crawl orderbook and trade messages from crypto exchanges
 - [cryptotrader-core](https://github.com/monomadic/cryptotrader-core) | `Rust` | - Simple to use Crypto Exchange REST API client in rust.
 - [openlimits](https://github.com/nash-io/openlimits) | `Rust` | - A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.
-- [Freqtrade](https://github.com/freqtrade/freqtrade) | `Python` | - Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
-- [* Hummingbot](https://github.com/CoinAlpha/hummingbot) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/CoinAlpha/hummingbot/development) | `Python`, `Cython`, `Live Trading` | - A client for crypto market making
-- [Jesse](https://github.com/jesse-ai/jesse) | `Python` | - Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.
 - [* OctoBot](https://github.com/Drakkar-Software/OctoBot) | `Python`, `Cython`, `Live Trading`| - Cryptocurrency trading bot for TA, arbitrage and social trading with an advanced web interface
 - [Kelp](https://github.com/stellar/kelp) | `Go`, `Live Trading` | - Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges
 - [exc](https://github.com/Nouzan/exc) | `Rust` | - The abstraction layer of exchanges.
